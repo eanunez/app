@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Dynamic Form using React
+
+This is a demo of a dynamic form using ReactJs.
+
+# Installation
+
+To install, please follow the instructions at [Create React App](https://github.com/facebook/create-react-app).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
